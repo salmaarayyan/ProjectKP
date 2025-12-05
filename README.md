@@ -1,4 +1,4 @@
-<img width="2879" height="1704" alt="Screenshot 2025-12-05 151938" src="https://github.com/user-attachments/assets/0e3fb5b2-6ade-4a57-8a0b-1627ab9dd40f" /><h3>Home-Hero Section & Navigasi</h3>
+<h3>Home-Hero Section & Navigasi</h3>
 <p>Tampilan halaman Home dengan hero section, navigasi utama, dan tombol menuju form keluhan.</p>
 <img width="2878" height="1705" alt="Screenshot 2025-12-05 151709" src="https://github.com/user-attachments/assets/b8c18508-1cd8-41c7-9085-0f4bdc1f4724" />
 
